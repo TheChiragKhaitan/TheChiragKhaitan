@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **chiragkhaitan2014@gmail.com**
 
+- 👨‍💻 All of my projects are available at **https://portfolio-chirag.vercel.app**
+
 - ⚡ Fun fact **I am an avid anime lover**
 
 <h3 align="left">Connect with me:</h3>
